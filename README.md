@@ -1,0 +1,2 @@
+# collector
+implementacao de exemplo.
